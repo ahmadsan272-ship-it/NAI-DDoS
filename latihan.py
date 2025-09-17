@@ -2,7 +2,7 @@ import requests
 import time
 
 def test_simple():
-    url = https://httpbin.org/get" # Website untuk testing
+    url = https://www.templemount.org/get" #
 
     print("Mengirim request ke:", url)
     start_time = time.time
